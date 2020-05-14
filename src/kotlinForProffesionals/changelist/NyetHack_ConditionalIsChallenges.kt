@@ -1,4 +1,4 @@
-package changelist
+package kotlinForProffesionals.changelist
 
 fun main(args: Array<String>) {
     val name = "madrigal"
